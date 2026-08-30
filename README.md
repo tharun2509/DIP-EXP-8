@@ -1,5 +1,9 @@
 # Image Segmentation Using Thresholding Techniques in OpenCV
+##  Developed By
 
+* **Name:** THARUN DP
+* **Register No:** 212225240172
+* 
 ## Aim
 
 To segment an image using Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding techniques using Python and OpenCV.
@@ -128,7 +132,8 @@ plt.show()
 - The grayscale version of the input image is displayed.
 - Serves as the input for thresholding operations.
 
-<img width="167" height="196" alt="image" src="https://github.com/user-attachments/assets/d51267dc-5b69-4c0c-9f9f-d82f4fa5b345" />
+<img width="142" height="208" alt="image" src="https://github.com/user-attachments/assets/49aa0f05-4e51-4dfd-a2ea-337fcba2c6fb" />
+
 
 
 ### Global Thresholding
@@ -137,8 +142,8 @@ plt.show()
 - Thresholded image is displayed.
 - A fixed threshold value is used for segmentation.
 - Pixels are classified as foreground or background.
+<img width="476" height="470" alt="image" src="https://github.com/user-attachments/assets/9621133f-3917-4d02-8ce4-5a9a4a12138d" />
 
-<img width="152" height="202" alt="image" src="https://github.com/user-attachments/assets/5153efde-8245-4595-be0a-cc30190618f0" />
 
 
 ### Adaptive Thresholding
@@ -149,7 +154,8 @@ plt.show()
 - Threshold values vary across different regions of the image.
 - Suitable for images with uneven illumination.
 
-<img width="166" height="196" alt="image" src="https://github.com/user-attachments/assets/291263b2-3508-4711-8e9d-3b2ccbbf5089" />
+<img width="476" height="470" alt="image" src="https://github.com/user-attachments/assets/a25f4f6f-0f84-4297-b3d7-1a2cd3f98dff" />
+
 
 
 ### Otsu's Thresholding
@@ -158,8 +164,8 @@ plt.show()
 - Otsu segmented image is displayed.
 - Optimal threshold value is calculated automatically.
 - Produces improved segmentation for bimodal histograms.
+<img width="476" height="470" alt="image" src="https://github.com/user-attachments/assets/b32dcdda-7610-4e82-a046-c7186df0ca9d" />
 
-<img width="111" height="190" alt="image" src="https://github.com/user-attachments/assets/f4630f06-c102-424e-b6d9-4cfdeef8fdb6" />
 
 
 
